@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ```
@@ -10,16 +11,15 @@
 
 *Building fast, elegant interfaces people remember.*
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-rickysaarloos.dev-000000?style=for-the-badge&logoColor=white)](https://github.com/rickysaarloos)
-[![Email](https://img.shields.io/badge/EMAIL-rickysaarloos%40gmail.com-000000?style=for-the-badge&logoColor=white)](mailto:rickysaarloos@gmail.com)
-[![Status](https://img.shields.io/badge/STATUS-Open%20voor%20projecten-00c853?style=for-the-badge&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/🌐_BEKIJK_PORTFOLIO-rickysaarloos.github.io-f0ede8?style=for-the-badge&labelColor=000000&color=f0ede8)](https://rickysaarloos.github.io/portfolio-website/#/)
+[![Status](https://img.shields.io/badge/STATUS-Open%20voor%20projecten-00c853?style=for-the-badge&labelColor=000000)](#)
 
 </div>
 
 ---
 
 ```
-— ABOUT ME
+— OVER MIJ
 ```
 
 MBO 4 Software Development student aan het **Techniek College Rotterdam**.  
@@ -31,7 +31,7 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 ---
 
 ```
-— TECH STACK
+— VAARDIGHEDEN
 ```
 
 **Frontend**
@@ -51,26 +51,25 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
 ![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)
+![Electron](https://img.shields.io/badge/Electron-000?style=flat-square&logo=electron&logoColor=47848F)
 
 **Design & Workflow**
 
 ![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-000?style=flat-square&logo=electron&logoColor=47848F)
 
 ---
 
 ```
-— SELECTED WORK
+— EXPERTISE
 ```
 
-| # | Project | Stack | Type |
-|---|---------|-------|------|
-| 01 | **[FITD App](https://github.com/rickysaarloos)** — Fashion marketplace | MongoDB · Express · React · Node | Full-Stack Web App |
-| 02 | **[Project: Darkcastle](https://github.com/rickysaarloos)** — Web-based game | PHP · SQL · JavaScript | Webgame |
-| 03 | **[Games for Good](https://github.com/rickysaarloos)** — Educatieve webgame | JavaScript · Web Design · Gamification | Maatschappelijk Project |
-| 04 | **[Tic Tac Toe](https://github.com/rickysaarloos)** — Python game | Python · Pygame | Game Development |
+```
+01  FRONTEND DEVELOPMENT    React · JavaScript · TypeScript · Vite
+02  UI / UX DESIGN          Design systems · Accessibility · UX thinking  
+03  SAMENWERKING            Git workflow · Iteratief werken · Documentatie
+```
 
 ---
 
@@ -89,14 +88,17 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 ---
 
 ```
-— EXPERTISE
+— PROJECTEN
 ```
 
-```
-01  FRONTEND DEVELOPMENT    React · JavaScript · TypeScript · Vite
-02  UI / UX DESIGN          Design systems · Accessibility · UX thinking
-03  SAMENWERKING            Git workflow · Iteratief werken · Documentatie
-```
+> Alle projecten zijn te bekijken op mijn portfolio website.  
+> Van webgames en full-stack apps tot UI experimenten en design tools.
+
+<div align="center">
+
+**[→ Bekijk al mijn werk op rickysaarloos.github.io/portfolio-website](https://rickysaarloos.github.io/portfolio-website/#/)**
+
+</div>
 
 ---
 
@@ -104,19 +106,22 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 — CONTACT
 ```
 
-> Werk je aan een website of productidee en zoek je een developer  
-> die **design en techniek** combineert?
+Werk je aan een website of productidee en zoek je een developer  
+die **design en techniek** combineert? Neem gerust contact op.
 
-📧 **rickysaarloos@gmail.com**  
-📍 **Zuid-Holland, NL**  
-🌐 **Open voor projecten & stages**
+| | |
+|---|---|
+| 📧 **Email** | [rickysaarloos@gmail.com](mailto:rickysaarloos@gmail.com) |
+| 📱 **Telefoon** | +31 612101710 |
+| 📍 **Locatie** | Zuid-Holland, NL |
+| 🌐 **Portfolio** | [rickysaarloos.github.io/portfolio-website](https://rickysaarloos.github.io/portfolio-website/#/) |
 
 ---
 
 <div align="center">
 
 ```
-Built with React + Vite  ·  © 2026 Ricky Saarloos
+© 2026 Ricky Saarloos  ·  Built with React + Vite
 ```
 
 </div>
