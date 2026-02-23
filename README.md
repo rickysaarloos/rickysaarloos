@@ -1,40 +1,49 @@
-
 <div align="center">
 
 ```
-╔─────────────────────────────────────────────────╗
-│  FRONTEND DEVELOPER  ·  ROTTERDAM, NL  ·  2026  │
-╚─────────────────────────────────────────────────╝
+01 / PORTRAIT
 ```
 
 # Ricky Saarloos
 
-*Building fast, elegant interfaces people remember.*
+**`< frontend developer />`** — ik bouw dingen die mensen onthouden.
 
-[![Portfolio](https://img.shields.io/badge/🌐_BEKIJK_PORTFOLIO-rickysaarloos.github.io-f0ede8?style=for-the-badge&labelColor=000000&color=f0ede8)](https://rickysaarloos.github.io/portfolio-website/#/)
-[![Status](https://img.shields.io/badge/STATUS-Open%20voor%20projecten-00c853?style=for-the-badge&labelColor=000000)](#)
+*Ergens tussen een lege editor en een afgewerkte interface*  
+*gebeurt iets wat ik niet kan stoppen met doen.*
+
+[![Portfolio](https://img.shields.io/badge/→_ZIE_MIJN_WERK-portfolio-f0ede8?style=for-the-badge&labelColor=0a0a0a&color=f0ede8)](https://rickysaarloos.github.io/portfolio-website/#/)
+[![Open voor projecten](https://img.shields.io/badge/●_OPEN_VOOR_PROJECTEN-00c853?style=for-the-badge&labelColor=0a0a0a)](#contact)
+
+</div>
+
+---
+
+<div align="center">
+
+*Student. Developer. Iemand die iets te lang nadenkt over font-keuzes.*
 
 </div>
 
 ---
 
 ```
-— OVER MIJ
+— WIE BEN IK
 ```
 
-MBO 4 Software Development student aan het **Techniek College Rotterdam**.  
-Ik combineer technische precisie met visuele kwaliteit — van componentstructuur  
-en performance tot typografie, spacing en gebruikservaring.
+Ik ben **Ricky**, MBO 4 student Software Development aan het Techniek College Rotterdam.
 
-Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
+Ik ben het type developer dat een component niet "af" vindt totdat de spacing klopt, de animatie smooth aanvoelt en de code leesbaar is voor de volgende persoon. Design en techniek zijn voor mij geen twee aparte werelden — ze horen samen.
+
+Overdag schrijf ik React components.  
+'s Avonds twijfel ik of de letter-spacing 0.02em of 0.03em moet zijn.
 
 ---
 
 ```
-— VAARDIGHEDEN
+— WAARMEE IK BUILD
 ```
 
-**Frontend**
+**Wat je in mijn code ziet:**
 
 ![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3&logoColor=1572B6)
@@ -44,7 +53,7 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite&logoColor=646CFF)
 
-**Backend & Tools**
+**Wat eronder zit:**
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
@@ -53,7 +62,7 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)
 ![Electron](https://img.shields.io/badge/Electron-000?style=flat-square&logo=electron&logoColor=47848F)
 
-**Design & Workflow**
+**Hoe ik werk:**
 
 ![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
@@ -62,26 +71,32 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 ---
 
 ```
-— EXPERTISE
+— WAT IK DOE
 ```
 
 ```
-01  FRONTEND DEVELOPMENT    React · JavaScript · TypeScript · Vite
-02  UI / UX DESIGN          Design systems · Accessibility · UX thinking  
-03  SAMENWERKING            Git workflow · Iteratief werken · Documentatie
+01  INTERFACES BOUWEN     Ik schrijf React, denk in componenten,
+                          en houd van code die ook mooi leest.
+
+02  UX / UI VOELEN        Ik denk na over waarom iets goed aanvoelt —
+                          spacing, flow, typografie, het kleine detail
+                          dat niemand bewust ziet maar iedereen voelt.
+
+03  SAMENWERKEN           Git commits met context, feedback verwelkomen,
+                          en eerlijk zijn over wat ik (nog) niet weet.
 ```
 
 ---
 
 ```
-— GITHUB STATS
+— STATS
 ```
 
 <div align="center">
 
-![Ricky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickysaarloos&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=f0ede8&text_color=888888&icon_color=f0ede8&border_color=222222&hide_border=false&count_private=true)
+![Ricky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickysaarloos&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=f0ede8&text_color=666666&icon_color=f0ede8&border_color=1a1a1a&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickysaarloos&layout=compact&theme=dark&bg_color=0a0a0a&title_color=f0ede8&text_color=888888&border_color=222222&hide_border=false&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickysaarloos&layout=compact&theme=dark&bg_color=0a0a0a&title_color=f0ede8&text_color=666666&border_color=1a1a1a&langs_count=6)
 
 </div>
 
@@ -91,12 +106,14 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 — PROJECTEN
 ```
 
-> Alle projecten zijn te bekijken op mijn portfolio website.  
-> Van webgames en full-stack apps tot UI experimenten en design tools.
+> Repos vertellen je weinig. Mijn werk wel.  
+> Zie de context, de keuzes en het eindresultaat op mijn portfolio:
 
 <div align="center">
 
-**[→ Bekijk al mijn werk op rickysaarloos.github.io/portfolio-website](https://rickysaarloos.github.io/portfolio-website/#/)**
+### [rickysaarloos.github.io/portfolio-website →](https://rickysaarloos.github.io/portfolio-website/#/)
+
+*Van webgames tot full-stack apps — elk project heeft een verhaal.*
 
 </div>
 
@@ -106,22 +123,30 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 — CONTACT
 ```
 
-Werk je aan een website of productidee en zoek je een developer  
-die **design en techniek** combineert? Neem gerust contact op.
+> Bouw je iets en mis je een developer die snapt hoe het er ook goed uit moet zien?  
+> Of wil je gewoon even sparren over een idee?
 
-| | |
-|---|---|
-| 📧 **Email** | [rickysaarloos@gmail.com](mailto:rickysaarloos@gmail.com) |
-| 📱 **Telefoon** | +31 612101710 |
-| 📍 **Locatie** | Zuid-Holland, NL |
-| 🌐 **Portfolio** | [rickysaarloos.github.io/portfolio-website](https://rickysaarloos.github.io/portfolio-website/#/) |
+<div align="center">
+
+| 📧 | [rickysaarloos@gmail.com](mailto:rickysaarloos@gmail.com) |
+|:---:|:---|
+| 📱 | +31 612 101 710 |
+| 📍 | Zuid-Holland, Nederland |
+| 🌐 | [portfolio](https://rickysaarloos.github.io/portfolio-website/#/) |
+
+*Ik reageer snel. Beloofd.*
+
+</div>
 
 ---
 
 <div align="center">
 
 ```
-© 2026 Ricky Saarloos  ·  Built with React + Vite
+© 2026 Ricky Saarloos  ·  Built with React + Vite  ·  Rotterdam
 ```
+
+*"De mooiste interfaces zijn de ones die je niet ziet werken —*  
+*je voelt ze gewoon."*
 
 </div>
