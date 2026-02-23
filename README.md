@@ -96,18 +96,7 @@ Ik ben het type developer dat een component niet **"af"** vindt totdat de spacin
 
 ---
 
-## 📊 &nbsp; GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rickysaarloos&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4a9eff&text_color=8b949e&icon_color=4a9eff&border_color=21262d&count_private=true&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickysaarloos&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4a9eff&text_color=8b949e&border_color=21262d&langs_count=6" />
-
-<br>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rickysaarloos&theme=tokyonight&background=0d1117&border=21262d&ring=4a9eff&fire=ff6b6b&currStreakLabel=4a9eff&sideLabels=8b949e&dates=8b949e)
-
-</div>
 
 ---
 
