@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Ricky%20Saarloos&fontSize=60&fontColor=f0ede8&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%94%20Rotterdam%2C%20NL&descAlignY=58&descSize=16&descColor=888888&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Ricky%20Saarloos&fontSize=60&fontColor=f0ede8&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%94%20Rotterdam%2C%20NL&descAlignY=58&descSize=16&descColor=888888&" />
 
 </div>
 
@@ -115,13 +115,11 @@ Ik ben het type developer dat een component niet **"af"** vindt totdat de spacin
 
 <div align="center">
 
-> Repos vertellen je weinig. Mijn werk wel.
+
 > Zie de context, de keuzes en het eindresultaat:
 
 ### ✦ &nbsp; [rickysaarloos.github.io/portfolio-website](https://rickysaarloos.github.io/portfolio-website/#/) &nbsp; ✦
 
-*Van webgames en full-stack apps tot UI experimenten en design tools.*
-*Elk project heeft een verhaal — kom het lezen.*
 
 </div>
 
@@ -131,8 +129,7 @@ Ik ben het type developer dat een component niet **"af"** vindt totdat de spacin
 
 <div align="center">
 
-> Bouw je iets en mis je een developer die snapt hoe het er ook goed uit moet zien?
-> Of wil je gewoon even sparren over een idee? **Ik reageer snel. Beloofd.**
+
 
 <br>
 
