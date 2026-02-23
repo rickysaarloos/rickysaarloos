@@ -143,9 +143,9 @@ Ik ben het type developer dat een component niet **"af"** vindt totdat de spacin
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
 
-*"De mooiste interfaces zijn de ones die je niet ziet werken — je voelt ze gewoon."*
+
+
 
 `© 2026 Ricky Saarloos · Built with React + Vite · Rotterdam`
 
