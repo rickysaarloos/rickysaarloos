@@ -9,7 +9,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-Bekijk%20mijn%20werk-f0ede8?style=for-the-badge&labelColor=0d0d1a&color=4a9eff)](https://rickysaarloos.github.io/portfolio-website/#/)
+
 [![Email](https://img.shields.io/badge/📧%20EMAIL-rickysaarloos%40gmail.com-f0ede8?style=for-the-badge&labelColor=1a0d0d&color=ff6b6b)](mailto:rickysaarloos@gmail.com)
 [![Status](https://img.shields.io/badge/●%20STATUS-Open%20voor%20projecten-f0ede8?style=for-the-badge&labelColor=0d1a0d&color=00c853)](#contact)
 
