@@ -61,7 +61,7 @@ Ik ben het type developer dat een component niet **"af"** vindt totdat de spacin
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
 
 </div>
 
@@ -98,17 +98,7 @@ Ik ben het type developer dat een component niet **"af"** vindt totdat de spacin
 
 ---
 
-## 🚀 &nbsp; Mijn Werk
 
-<div align="center">
-
-
-> Zie de context, de keuzes en het eindresultaat:
-
-### ✦ &nbsp; [rickysaarloos.github.io/portfolio-website](https://rickysaarloos.github.io/portfolio-website/#/) &nbsp; ✦
-
-
-</div>
 
 ---
 
